@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "name": "Jean Dupont",
+            "age": 32,
+            "job": "Ingénieur"
+        },
+        {
+            "name": "Marie Martin",
+            "age": 28,
+            "job": "Designer"
+        },
+        {
+            "name": "Alexandre Dumas",
+            "age": 45,
+            "job": "Ecrivain"
+        },
+        {
+            "name": "Sophie Durand",
+            "age": 24,
+            "job": "Etudiante"
+        }
+    ]
+}
